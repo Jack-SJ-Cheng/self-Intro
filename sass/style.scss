@@ -1,0 +1,11 @@
+.banner{
+    height: 100vh;
+    background-image: url(http://picsum.photos/1024/1024);
+    background-size: cover;
+    background-position: center center;
+    h1{
+        background-color: rgba($color: gray, $alpha: 0.2);
+        color: transparent;
+        -webkit-text-stroke: 1px white;
+    }
+}
