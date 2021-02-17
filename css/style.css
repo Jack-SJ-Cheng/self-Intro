@@ -1,11 +1,15 @@
-.banner {
-  height: 100vh;
-  background-image: url(http://picsum.photos/1024/1024);
-  background-size: cover;
-  background-position: center center;
-}
-.banner h1 {
-  background-color: rgba(128, 128, 128, 0.2);
-  color: transparent;
-  -webkit-text-stroke: 1px white;
+@charset "UTF-8";
+body,
+button,
+input,
+select,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: cursive, "MicrosoftYaHei", "宋體", Tahoma, Helvetica, Arial, sans-serif;
 }
